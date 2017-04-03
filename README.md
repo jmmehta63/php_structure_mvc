@@ -68,7 +68,9 @@ class Model {
         // in a real life scenario this will be done through a db select command  
         $allBooks = $this->getBookList();  
         return $allBooks[$title];  
-    }  
-      
-      
+    }        
 }  
+
+Thanks & Regards,
+Jignesh M. Mehta | Software Engineer 
+
